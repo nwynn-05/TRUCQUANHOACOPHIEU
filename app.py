@@ -14,8 +14,8 @@ st.set_page_config(
     page_icon="📈",
     layout="wide"
 )
-st.image("logofintech.jpg")
-st.title("📈 PHÂN TÍCH GIÁ CỔ PHIẾU VÀ KIỂM ĐỊNH MANN-KENDALL_ĐỀ TÀI 3_NGÔ THANH THẢO")
+st.image("logo.jpg")
+st.title("📈 PHÂN TÍCH GIÁ CỔ PHIẾU VÀ KIỂM ĐỊNH MANN-KENDALL_ĐỀ TÀI 3_NGUYỄN THẢO QUYÊN")
 
 # =============================
 # SIDEBAR
